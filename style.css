@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container1{
+    background-color: #1F2937;
+    height: 500px;
+}
+
+h6{
+
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
+
+.header{
+    padding-left: 100px;
+}
+
+
+
+ul{
+    color: #F9FAF8;
+    list-style: none;
+    display: flex;
+    
+}
+
+.flex-container{
+    display: flex;
+    
+}
+
+.list{
+    margin-left: 1100px;
+}
+
+li{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
