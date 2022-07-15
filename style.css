@@ -32,6 +32,13 @@ ul{
 
 .flex-container{
     display: flex;
+    justify-content: center;
+    
+}
+
+.flex-container1{
+    display: flex;
+    justify-content: center;
     
 }
 
@@ -45,3 +52,42 @@ li{
     padding-right: 20px;
     font-size: 18px;
 }
+
+.awesome{
+    font-size: 48px;
+    color: #F9FAF8;
+    
+}
+
+.image-holder{
+    margin-top: 100px;
+    background-color: grey;
+    width: 300px;
+    margin-left: 60px;
+    text-align: center;
+    line-height: 180px
+    ;
+}
+
+.bold-text{
+    margin-top: 100px;
+}
+
+span{
+    display: block;
+}
+
+.ran-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button1{
+    background-color: #3882F6;
+    height: 40px;
+    width: 80px;
+    border-radius: 8px;
+    color: #F9FAF8;
+
+}
+
