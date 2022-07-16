@@ -10,6 +10,13 @@
     height: 500px;
 }
 
+.container2{
+    background-color: #F9FAF8;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+}
+
 h6{
 
     font-size: 24px;
@@ -32,13 +39,22 @@ ul{
 
 .flex-container{
     display: flex;
-    justify-content: center;
+
     
 }
 
 .flex-container1{
     display: flex;
     justify-content: center;
+    
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 45px;
     
 }
 
@@ -89,5 +105,18 @@ span{
     border-radius: 8px;
     color: #F9FAF8;
 
+}
+
+.box{
+    border: 3px solid #3882F6;
+    background-color: #F9FAF8;
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+
+.container2-header{
+    margin-top: 30px;
 }
 
